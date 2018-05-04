@@ -1,0 +1,231 @@
+@import url('fonts.css');
+body {
+    font-family: 'Avenir Next';
+    font-size: 1.1rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Avenir Next Condensed Bold';
+  font-weight: 800 !important;
+    margin-bottom: 1rem;
+}
+
+.btn-xl {
+  text-transform: uppercase;
+  padding: 1.5rem 3rem;
+  font-size: 0.9rem;
+  font-weight: 700;
+  letter-spacing: 0.1rem;
+}
+
+.bg-black {
+  background-color: #000 !important;
+}
+.bg-green {
+  background: #004d00;
+}
+.rounded-pill {
+  border-radius: 5rem;
+}
+
+.topbar, .topbar a{
+  background: #004d00;
+  color: #ffffff;
+  text-decoration: none;
+}
+.topbar-content{
+  padding: 15px;
+}
+.navbar-custom {
+  padding-top: 1rem;
+  padding-bottom: .7rem;
+  background-color: rgba(255,255,255, 1);
+}
+
+.navbar-custom .navbar-brand {
+  font-size: 3.6rem;
+  letter-spacing: 0.3rem;
+  color:#004d00;
+  font-family: 'Italianno';
+}
+.navbar-dark .navbar-brand:focus, .navbar-dark .navbar-brand:hover{
+  color: #404040;
+}
+.navbar-custom .navbar-nav .nav-item .nav-link, #mainnav.navbar-nav li a {
+    font-family: 'Open Sans';
+  text-transform: uppercase;
+  font-size: .9rem;
+  font-weight: 700;
+  letter-spacing: 0.1rem;
+  color:#404040;
+    text-align: center;
+    display: inline-block;
+}
+
+header.masthead {
+  position: relative;
+  overflow: hidden;
+  padding-top: calc(7rem + 72px);
+  padding-bottom: 7rem;
+  background: url('../img/bg.jpg');
+ /* background: linear-gradient(0deg, #ff6a00 0%, #004d00 100%);*/
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+header.masthead .masthead-content {
+  z-index: 1;
+  position: relative;
+    font-family: 'Avenir Next Bold';
+}
+header.masthead .masthead-content .masthead-heading{
+    font-family: 'Avenir Next Bold';
+}
+
+header.masthead .masthead-content .masthead-heading {
+  font-size: 4rem;
+}
+
+header.masthead .masthead-content .masthead-subheading {
+  font-size: 2rem;
+}
+
+header.masthead .bg-circle {
+  z-index: 0;
+  position: absolute;
+  border-radius: 100%;
+  background: linear-gradient(0deg, #004d00 0%, #ff6a00 100%);
+}
+
+header.masthead .bg-circle-1 {
+  height: 90rem;
+  width: 90rem;
+  bottom: -55rem;
+  left: -55rem;
+}
+
+header.masthead .bg-circle-2 {
+  height: 50rem;
+  width: 50rem;
+  top: -25rem;
+  right: -25rem;
+}
+
+header.masthead .bg-circle-3 {
+  height: 20rem;
+  width: 20rem;
+  bottom: -10rem;
+  right: 5%;
+}
+
+header.masthead .bg-circle-4 {
+  height: 30rem;
+  width: 30rem;
+  top: -5rem;
+  right: 35%;
+}
+
+@media (min-width: 992px) {
+  #mainnav.navbar-nav li a {
+    padding-right: .5rem;
+    padding-left: .5rem;
+  }
+  header.masthead {
+    padding-top: calc(3rem + 55px);
+    padding-bottom: 5rem;
+  }
+  header.masthead .masthead-content .masthead-heading {
+    font-size: 6rem;
+    text-shadow: .6rem .1rem 1rem #404040;
+  }
+  header.masthead .masthead-content .masthead-subheading {
+    font-size: 4rem;
+  }
+}
+
+.bg-primary {
+  background-color: #004d00 !important;
+}
+.btn{
+    font-family: 'Open Sans Bold';
+    font-size: 1.4rem;
+}
+.btn-primary {
+  background-color: #004d00;
+    color:#ffffff !important;
+  border-color: #004d00;
+}
+
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+  background-color: #404040 !important;
+  border-color: #404040 !important;
+}
+
+.btn-primary:focus {
+  box-shadow: 0 0 0 0.2rem rgba(238, 9, 121, 0.5);
+}
+
+.btn-secondary {
+  background-color: #ff6a00;
+  border-color: #ff6a00;
+}
+
+.btn-secondary:active, .btn-secondary:focus, .btn-secondary:hover {
+  background-color: #cc5500 !important;
+  border-color: #cc5500 !important;
+}
+
+.btn-secondary:focus {
+  box-shadow: 0 0 0 0.2rem rgba(255, 106, 0, 0.5);
+}
+.parallax{
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.section-green{
+    background-color:#004D00;
+    color:#fff;
+}
+.section-green .section-box{
+    margin: 1rem;
+    padding: 2rem;
+    background-color:#004D00;
+    color:#fff;
+}
+.section-green .bg-layer{
+    background:rgba(0,77,0,.8);
+}
+.section-dark{
+  background:#404040;
+  color:#ffffff;
+}
+.btn-default{
+  color:#404040 !important;
+  background:#ffffff;
+}
+footer .footerlinks {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+footer .footerlinks li {
+  display: inline-block;
+}
+
+footer .footerlinks li a {
+  display: inline-block;
+  padding: 0 15px;
+}
+footer a {
+  color: #ffffff;
+}

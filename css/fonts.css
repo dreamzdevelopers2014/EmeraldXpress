@@ -1,0 +1,231 @@
+@font-face {
+    font-family: 'AvenirNextHeavyItalic';
+    src: url('../fonts/AvenirNext-HeavyItalic.woff2') format('woff2'),
+        url('../fonts/AvenirNext-HeavyItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Avenir Next Condensed';
+    src: url('../fonts/AvenirNextCondensed-Bold.woff2') format('woff2'),
+        url('../fonts/AvenirNextCondensed-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Next Ultra';
+    src: url('../fonts/AvenirNext-UltraLight.woff2') format('woff2'),
+        url('../fonts/AvenirNext-UltraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Next Italic';
+    src: url('../fonts/AvenirNext-Italic.woff2') format('woff2'),
+        url('../fonts/AvenirNext-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Avenir Next Condensed Ultra';
+    src: url('../fonts/AvenirNextCondensed-UltraLightItalic.woff2') format('woff2'),
+        url('../fonts/AvenirNextCondensed-UltraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Avenir Next Heavy';
+    src: url('../fonts/AvenirNext-Heavy.woff2') format('woff2'),
+        url('../fonts/AvenirNext-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Next Medium';
+    src: url('../fonts/AvenirNext-Medium.woff2') format('woff2'),
+        url('../fonts/AvenirNext-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Next Demi';
+    src: url('../fonts/AvenirNext-DemiBoldItalic.woff2') format('woff2'),
+        url('../fonts/AvenirNext-DemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Avenir Next Condensed Demi';
+    src: url('../fonts/AvenirNextCondensed-DemiBoldItalic.woff2') format('woff2'),
+        url('../fonts/AvenirNextCondensed-DemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Avenir Next Condensed';
+    src: url('../fonts/AvenirNextCondensed-MediumItalic.woff2') format('woff2'),
+        url('../fonts/AvenirNextCondensed-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Avenir Next Condensed Ultra';
+    src: url('../fonts/AvenirNextCondensed-UltraLight.woff2') format('woff2'),
+        url('../fonts/AvenirNextCondensed-UltraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Next Condensed';
+    src: url('../fonts/AvenirNextCondensed-Heavy.woff2') format('woff2'),
+        url('../fonts/AvenirNextCondensed-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Next Condensed';
+    src: url('../fonts/AvenirNextCondensed-Regular.woff2') format('woff2'),
+        url('../fonts/AvenirNextCondensed-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Next';
+    src: url('../fonts/AvenirNext-Regular.woff2') format('woff2'),
+        url('../fonts/AvenirNext-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Next Condensed';
+    src: url('../fonts/AvenirNextCondensed-Italic.woff2') format('woff2'),
+        url('../fonts/AvenirNextCondensed-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Avenir Next Medium Italic';
+    src: url('../fonts/AvenirNext-MediumItalic.woff2') format('woff2'),
+        url('../fonts/AvenirNext-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Avenir Next Bold';
+    src: url('../fonts/AvenirNext-Bold.woff2') format('woff2'),
+        url('../fonts/AvenirNext-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Next';
+    src: url('../fonts/AvenirNext-BoldItalic.woff2') format('woff2'),
+        url('../fonts/AvenirNext-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Avenir Next Condensed';
+    src: url('../fonts/AvenirNextCondensed-HeavyItalic.woff2') format('woff2'),
+        url('../fonts/AvenirNextCondensed-HeavyItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Avenir Next Ultra';
+    src: url('../fonts/AvenirNext-UltraLightItalic.woff2') format('woff2'),
+        url('../fonts/AvenirNext-UltraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Avenir Next Condensed';
+    src: url('../fonts/AvenirNextCondensed-Medium.woff2') format('woff2'),
+        url('../fonts/AvenirNextCondensed-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Next Condensed Bold';
+    src: url('../fonts/AvenirNextCondensed-DemiBold.woff2') format('woff2'),
+        url('../fonts/AvenirNextCondensed-DemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Next Condensed Bold Italic';
+    src: url('../fonts/AvenirNextCondensed-BoldItalic.woff2') format('woff2'),
+        url('../fonts/AvenirNextCondensed-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Avenir Next Demi';
+    src: url('../fonts/AvenirNext-DemiBold.woff2') format('woff2'),
+        url('../fonts/AvenirNext-DemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/OpenSans.woff2') format('woff2'),
+        url('../fonts/OpenSans.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Italianno';
+    src: url('../fonts/Italianno-Regular.woff2') format('woff2'),
+        url('../fonts/Italianno-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/OpenSans.woff2') format('woff2'),
+        url('../fonts/OpenSans.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans Bold';
+    src: url('../fonts/OpenSans-Bold.woff2') format('woff2'),
+        url('../fonts/OpenSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('../fonts/MyriadPro-Regular.woff2') format('woff2'),
+        url('../fonts/MyriadPro-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
